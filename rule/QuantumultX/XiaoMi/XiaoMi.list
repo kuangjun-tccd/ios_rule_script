@@ -128,6 +128,8 @@ HOST-SUFFIX,xlaomi.net,XiaoMi
 HOST-SUFFIX,youpin.cn,XiaoMi
 HOST-SUFFIX,youpin.com.cn,XiaoMi
 HOST-SUFFIX,zhutidasai.com,XiaoMi
+HOST-SUFFIX,tracking.intl.miui.com,XiaoMi
+HOST-SUFFIX,app-measurement.com,XiaoMi
 IP-CIDR,120.133.33.222/32,XiaoMi
 IP-CIDR,47.241.176.221/32,XiaoMi
 IP-CIDR,58.220.58.152/31,XiaoMi
